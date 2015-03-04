@@ -4,7 +4,7 @@ CFLAGS=-Wall -ansi -c
 all: wrong_linker
 
 wrong_linker: main print_name incorrect_import
-	gcc main.o print_name.o incorrect_import.o
+	gcc main.o print_name.o incorrect_import.o -o main
 
 main:
 	$(CC) $(CFLAGS) main.c

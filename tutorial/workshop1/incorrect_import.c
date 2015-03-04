@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "print_name.c"
+#include "incorrect_import.h"
 
 #define CHAR_ARR_SIZE 64
 
