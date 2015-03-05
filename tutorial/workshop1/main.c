@@ -7,9 +7,6 @@
     #define CHAR_ARR_SIZE 64
 #endif
 
-void get_name(char *);
-void print_name(char*);
-
 int main(int argc, char *argv[]) {
     printf("Hello, World!\n");
 
