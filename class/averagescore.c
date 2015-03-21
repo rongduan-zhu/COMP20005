@@ -31,7 +31,7 @@ int main(int argc, char *argv[]) {
 
     sum -= max_score + min_score;
 
-    printf("The sum is: %.2f.\nThe average score is %.2f\n", sum, sum / num_read);
+    printf("The sum is (without the max and min score): %.2f.\nThe average score is %.2f\n", sum, sum / num_read);
 
     return 0;
 }
