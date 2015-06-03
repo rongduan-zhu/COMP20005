@@ -1,2 +1,2 @@
 # COMP20005 - Engineering Computation
-Contains all files for this subject
+Contains all files for this subject :)
